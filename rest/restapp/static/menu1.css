@@ -1,0 +1,13 @@
+.bg{
+    background-image: url(background.jpeg);
+    width: 1600px;
+    height: 700px;
+    color:black;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    font-family:'Times New Roman', Times, serif;
+    background-size: contain;
+    background-repeat: no-repeat;
+    
+}

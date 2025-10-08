@@ -1,0 +1,52 @@
+.background {
+    width: 1470px;
+    height: 680px;
+    color:purple;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    font-family:'Times New Roman', Times, serif;
+    background-image: url(background.jpeg);
+    background-size: cover;
+}
+
+.contents {
+    width: 550px;
+    height: 25px;
+    border: 2px solid black;
+    padding: 10px;
+    background-color: blue;
+    text-align: center;
+    top: 5px;
+    left: 900px;
+    position: relative;
+    word-spacing: 70px;
+}
+
+.contact {
+    color:blue ;
+    font-family: italic;
+    text-align: left;
+    position: relative;
+    font-size: 300%;
+    top: -50px;
+}
+
+.info {
+    color: purple;
+    font-family: Times New Roman;
+    position: relative;
+    top: -130px;
+    left: -20;
+    text-align: center;
+}
+
+.copyrights{
+    width: 1510px;
+    height: 20px;
+    background-color: gray;
+    text-align: center;
+    top: -20px;
+    left: -20px;
+    position: relative;
+}

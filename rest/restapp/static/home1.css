@@ -32,18 +32,10 @@
     top: -50px;
 }
 
-.line {
-    color: beige;
-    font-family: Verdana;
-    text-align: left;
-    position: relative;
-    font-size: 250%;
-    top: -120px;
-    left: 10px;
-}
+
 
 .lines {
-    color: white;
+    color: brown;
     font-family: Verdana;
     text-align: center;
     position: relative;
